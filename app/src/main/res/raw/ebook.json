@@ -1,0 +1,61 @@
+{
+  "error": false,
+  "message": "success",
+  "count": 9,
+  "places": [
+    {
+      "id": 1,
+      "title": "Buku Tema 1",
+      "image": "https://konten.grafika27.com/uploads/2020/04/Pages-from-Kelas_06_SD_Tematik_1_Selamatkan_Makhluk_Hidup_Siswa.png",
+      "url":"https://drive.google.com/file/d/1XF_CVZ7LYJu60A73GKFoVldzNMpyTgk5/view"
+    },
+	{
+      "id": 2,
+      "title": "Buku Tema 2",
+      "image": "https://konten.grafika27.com/uploads/2020/12/Pages-from-Kelas_06_SD_Tematik_2_Persatuan_Dalam_Perbedaan_Siswa.png",
+      "url": "https://drive.google.com/file/d/1e9F3LUww8bCrtFNdhwIIz2_BK6ZRMUne/view"
+    },
+	{
+      "id": 3,
+      "title": "Buku Tema 3",
+      "image": "https://konten.grafika27.com/uploads/2020/04/Pages-from-Kelas_06_SD_Tematik_3_Tokoh_dan_Penemuan_Siswa.png",
+      "url": "https://drive.google.com/file/d/1O5t5taC-vc8Hi5yw8Y9hvsKQUMx5bmkD/view"
+    },
+	{
+      "id": 4,
+      "title": "Buku Tema 4",
+      "image": "https://konten.grafika27.com/uploads/2020/12/Pages-from-Kelas_06_SD_Tematik_4_Globalisasi_Siswa.png",
+      "url": "https://drive.google.com/file/d/1NPkTcWxn1oDpwCsQ7hqu02333JZq-ZSi/view"
+    },
+	{
+      "id": 5,
+      "title": "Buku Tema 5",
+      "image": "https://konten.grafika27.com/uploads/2020/12/Pages-from-Kelas_06_SD_Tematik_5_Wirausaha_Siswa.png",
+      "url": "https://drive.google.com/file/d/1iW4WZWUTE_ojYnF-n6tyWHam6v1bJqOV/view"
+    },
+	{
+      "id": 6,
+      "title": "Buku Tema 6",
+      "image": "https://konten.grafika27.com/uploads/2020/12/KelasVI-Tema-6-BS-Cover-e1609295908706.png",
+      "url": "https://drive.google.com/file/d/1TrVdR4Kuhe4lmK0npJz9yvb4rFAdITqM/view"
+    },
+	{
+      "id": 7,
+      "title": "Buku Tema 7",
+      "image": "https://konten.grafika27.com/uploads/2020/12/Kelas-VI-Tema-7-BS-Cover-e1609295902734.png",
+      "url": "https://drive.google.com/file/d/1ztQTGUKGV5pCDU52frLCjVc47cnnpEiO/view"
+    },
+	{
+      "id": 8,
+      "title": "Buku Tema 8",
+      "image": "https://konten.grafika27.com/uploads/2020/04/Kelas-VI-Tema-8-BS-Cover-e1609295885293.png",
+      "url": "https://drive.google.com/file/d/1565FBHobpSIXf5E2vYnzbpelFrGHfRVX/view"
+    },
+	{
+      "id": 9,
+      "title": "Buku Tema 9",
+      "image": "https://konten.grafika27.com/uploads/2020/04/Kelas-VI-Tema-9-BS-Cover-e1609295895594.png",
+      "url": "https://drive.google.com/file/d/1FHSWC0FjkaSf6qgCiETwB13OPkrIRKrR/view"
+    }
+  ]
+}
